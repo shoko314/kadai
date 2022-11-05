@@ -13,8 +13,8 @@ public class Main {
         //movieMapを登録する
         movieMap.put("2021年", "マリグナント");
         movieMap.put("2020年", "野生の呼び声");
-        movieMap.put("2018年", "レディー・プレイヤー１");
         movieMap.put("2019年", "アラジン");
+        movieMap.put("2018年", "レディー・プレイヤー１");
         movieMap.put("2017年", "グレイテスト・ショーマン");
         movieMap.put("2016年", "ズートピア");
 
